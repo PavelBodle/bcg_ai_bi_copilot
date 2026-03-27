@@ -1,4 +1,4 @@
-# AI-Powered Executive Data & BI Co-Pilot
+# AI-Powered Executive Data & BI Co-Pilot 📊
 
 > A conversational Business Intelligence assistant that lets business leaders  
 > query sales data in plain English: no SQL, no analyst queue, no waiting.
@@ -195,13 +195,6 @@ App opens at [http://localhost:8501](http://localhost:8501)
 "Compare average discount by region"
 "Which customer segment has the highest order volume?"
 "Show monthly sales trend for the West region"
-
----
-## Demo Walkthrough Video 
-
-[![AI-Powered Executive BI Co-Pilot - Demo](https://img.youtube.com/vi/XwaBCJ7-x6k/maxresdefault.jpg)](https://www.youtube.com/watch?v=XwaBCJ7-x6k)
-
-> ▶️ Click the thumbnail above to watch the full demo on YouTube
 
 ---
 
